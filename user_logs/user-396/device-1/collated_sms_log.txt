@@ -1,0 +1,1 @@
+[{"message_body": "But ata ivo usitume tena,am ok nimeshanunua.nice lunch", "thread_id": 192, "sms_type": 1, "contact_id": 0, "datetime": 1506504182408, "sms_address": "+254466950981", "item_id": 1}]

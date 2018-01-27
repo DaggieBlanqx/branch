@@ -1,0 +1,1 @@
+[{"duration": "0", "item_id": 1, "phone_number": "0704236761", "call_type": "2", "datetime": "1496852457970"}, {"duration": "0", "item_id": 0, "phone_number": "*444#", "call_type": "2", "datetime": "1496852132728"}]

@@ -1,0 +1,1 @@
+[{"message_body": "LH33RLFQA9 Confirmed. Ksh4,576.00 sent to BRANCH INTERNATIONAL LTD  for account 0712256651 on 3/8/17 at 9:16 PM New M-PESA balance is Ksh369.00. Transaction cost, Ksh55.00.", "thread_id": 1, "sms_type": 1, "contact_id": 0, "datetime": 1501784218623, "sms_address": "MPESA", "item_id": 1}]
